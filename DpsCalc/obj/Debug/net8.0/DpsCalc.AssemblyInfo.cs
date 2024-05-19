@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DpsCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3a7983a932184713d592bd210b52a9fd6bcfe53")]
 [assembly: System.Reflection.AssemblyProductAttribute("DpsCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DpsCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
